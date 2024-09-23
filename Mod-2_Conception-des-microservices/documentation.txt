@@ -1,0 +1,11 @@
+- Domain Driven Design (en français) => https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design
+
+- Domain Driven Design (avec des cas concrets) : https://www.dddcommunity.org/
+
+- Livre sur le Domain Driven Design, par Eric Evans : Domain-Driven Design: Tackling Complexity in the Heart of Software
+
+- Architecture microservices avec un exemple de projet en .NET (eShopOnContainers) : https://learn.microsoft.com/en-us/dotnet/architecture/microservices/
+
+	Projet Github : https://github.com/dotnet/eShop
+
+- Versionnage d'API : https://www.postman.com/api-platform/api-versioning/

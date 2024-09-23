@@ -1,0 +1,7 @@
+Apparition du terme "Microservices" : http://2012.33degree.org/talk/show/67
+
+Définition de terme "Microservice" par Martin Fowler: ttps://martinfowler.com/articles/microservices.html
+
+Microservices Guide, par Martin Fowler: https://martinfowler.com/microservices/
+
+Autres types d'architectures : https://martinfowler.com/architecture/   

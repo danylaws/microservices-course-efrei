@@ -1,0 +1,15 @@
+- Database per service pattern => https://microservices.io/patterns/data/database-per-service.html
+
+- Les transactions => https://www.geeksforgeeks.org/transaction-in-dbms/
+
+- Les propriétés ACID dans un SGBD => https://www.geeksforgeeks.org/acid-properties-in-dbms/
+
+- Les schémas dans une base de données SQL Server => https://blog.quest.com/using-database-schemas-in-sql-server/
+
+- CQRS expliqué => https://udidahan.com/2009/12/09/clarified-cqrs/
+
+- Event Sourcing expliqué par Martin Fowler => https://martinfowler.com/eaaDev/EventSourcing.html
+
+- Event Sourcing expliqué par Microsoft => https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
+
+- Event Sourcing en environnement microservices => https://microservices.io/patterns/data/event-sourcing.html
